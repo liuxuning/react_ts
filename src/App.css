@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.login_div{
+  width: 400px;
+  height: 400px;
+  background-color: pink;
+}
